@@ -1,2 +1,2 @@
-# mag.-field-classification-plots
+# titan-magenetic-field-classification-plots
 Time resolved classification plots
